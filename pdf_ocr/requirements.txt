@@ -44,7 +44,7 @@ fsspec==2025.2.0
     # via
     #   huggingface-hub
     #   torch
-h11==0.14.0
+h11==0.16.0
     # via httpcore
 h5py==3.12.1
     # via python-doctr
@@ -105,7 +105,7 @@ propcache==0.2.1
     # via
     #   aiohttp
     #   yarl
-protobuf==5.29.3
+protobuf==5.29.5
     # via
     #   onnx
     #   temporalio
@@ -132,7 +132,7 @@ pyyaml==6.0.2
     # via huggingface-hub
 rapidfuzz==3.12.1
     # via python-doctr
-requests==2.32.3
+requests==2.32.4
     # via
     #   pdf-ocr (pyproject.toml)
     #   huggingface-hub
@@ -140,7 +140,7 @@ restack-ai==0.0.61
     # via pdf-ocr (pyproject.toml)
 scipy==1.15.1
     # via python-doctr
-setuptools==75.8.0
+setuptools==78.1.1
     # via torch
 shapely==2.0.7
     # via python-doctr
@@ -154,7 +154,7 @@ sympy==1.13.1
     # via torch
 temporalio==1.9.0
     # via restack-ai
-torch==2.6.0
+torch==2.7.1
     # via
     #   python-doctr
     #   torchvision

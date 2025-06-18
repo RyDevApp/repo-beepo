@@ -10,10 +10,10 @@ dependencies = [
     "restack-ai==0.0.61",
     "watchfiles>=1.0.4",
     "python-dotenv==1.0.1",
-    "llama-index==0.11.22",
+    "llama-index==0.12.28",
     "llama-index-llms-together==0.2.0",
     "flask[async]==3.0.3",
-    "flask-cors==5.0.0",
+    "flask-cors==6.0.0",
 ]
 
 [project.scripts]
