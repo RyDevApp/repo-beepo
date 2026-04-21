@@ -11,7 +11,7 @@ dependencies = [
     "restack-ai==0.0.61",
     "watchfiles>=1.0.4",
     "requests==2.32.3",
-    "python-dotenv==1.0.1",
+    "python-dotenv==1.2.2",
 ]
 
 [project.scripts]
